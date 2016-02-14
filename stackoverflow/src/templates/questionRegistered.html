@@ -1,0 +1,176 @@
+{% extends "base.html" %}
+
+{% block bodycont %}
+
+             <div>
+                    <div class="panel panel-info">
+                        
+                        <div class="panel-body">
+                            <div class="col-sm-3">
+                                <a href="#" class="thumbnail fixed-thumbnail">
+                                	{{ question.author.user.username }}
+									{% if question.author.avatar %}
+                                    <img src="{{question.author.avatar.url}}" style="width:100px;height:100px;">
+                                    {% else %}
+                                    {%load staticfiles%}
+                                    <img src="static/ava1.jpg" style="width:100px;height:100px;">
+                                    {% endif %}
+								</a>
+                               
+                                <ul class="nav nav-tabs">
+<!--
+                                    <script>
+                                        $.ajax({
+                                            url:  '/blog/comments/add/',
+                                            type: 'POST',
+                                            data: { post_id: 12, text: 'Занятная идея!' },
+                                        }).success(function(data) {
+                                            if (data.status == 'ok') {
+                                                console.log(data.comment_id);
+                                            }
+                                        }).error(function() {
+                                            console.log('http error')
+                                        });
+                                    </script>
+-->
+                                    <script>
+                                        function vote(kind) {
+                                            $.getJSON("/vote/", { pk:{{ object.pk }}, vote: kind }, function(json){
+                                              alert("Was successful?: " + json['success']);
+                                            });
+                                        }
+                                        function addClickHandlers() {
+                                            $("#upvote").click( function() { vote("up") });
+                                            $("#downvote").click( function() { vote("down") });
+                                        }
+                                        $(document).ready(addClickHandlers);
+                                    </script>
+                                    <p> Do you <form id="upvote">agree</form> or <form id="downvote">disagree</form>? </p>
+
+
+								    <a class="btn btn-default btn-sm"><span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span></a>
+								    <a class="btn btn-default btn-sm">{{ question.like_count }}</a>
+								    <a class="btn btn-default btn-sm"><span class="glyphicon glyphicon-triangle-top" aria-hidden="true"></span></a>
+								</ul>
+                            </div>
+                            <div class="col-sm-9">
+                                <div class="panel panel-success fixed-queston-panel">
+                                    <div class="panel-heading">
+                                         <a href="#">{{ question.name }}</a>
+                                    </div>
+                                    <div class="panel-body">
+                                   		{{ question.text }}
+                                    </div>
+                                </div>
+                                        <span>
+                                            <a href="#" class="btn btn-primary" type="button">Answers <span class="badge">{{ question.answer_count }}</span></a>
+                                            <span class="tag-list">
+                                                <ul class="list-inline">
+                                                    <li>Tags:</li>
+                                                    {% if question.tag1 %}
+                                                        <li><a href="/questions/?page=1&sort=tag&tag={{ question.tag1 }}" class="btn btn-success">{{ question.tag1 }}</a></li>
+                                                    {% endif %}
+                                                    {% if question.tag2 %}
+                                                        <li><a href="/questions/?page=1&sort=tag&tag={{ question.tag2 }}" class="btn btn-success">{{ question.tag2 }}</a></li>
+                                                    {% endif %}
+                                                    {% if question.tag3 %}
+                                                        <li><a href="/questions/?page=1&sort=tag&tag={{ question.tag3 }}" class="btn btn-success">{{ question.tag3 }}</a></li>
+                                                    {% endif %}
+                                                </ul>
+                                            </span>
+                                        </span>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        
+                  
+                        <div class="panel panel-info">
+                            
+                            {% for answer in answers %}
+
+                             <div class="panel-body">
+                                <div class="col-xs-1">
+                                    <ul class="nav nav-tabs">
+                                    <a class="btn btn-default btn-xs"><span class="glyphicon glyphicon-triangle-top" aria-hidden="true"></span></a>
+                                    <a class="btn btn-default btn-sm">{{ answer.like_count }}</a>
+                                    <a class="btn btn-default btn-xs"><span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span></a>
+                                </ul>
+                                </div>
+                                <div class="col-xs-3 ">
+                                    <a href="#" class="thumbnail fixed-thumbnail">
+                                        {{ answer.author.user.username }}
+                                        {% if answer.author.avatar %}
+                                            <img src="{{answer.author.avatar.url}}" style="width:100px;height:100px;">
+                                        {% else %}
+                                        {%load staticfiles%}
+                                            <img src="static/ava2.jpg" style="width:100px;height:100px;">
+                                        {% endif %}
+                                </a>
+                                    <div class="checkbox">
+                                        <label>
+                                             <input type="checkbox"> Correct answer
+                                        </label>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                <div class="col-xs-7">
+                                    <div class="panel panel-success fixed-queston-panel">
+                                        <div class="panel-body">
+                                            {{ answer.text }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>    
+                            
+                            <hr>  
+                            
+                            {% endfor %}     
+                        
+                        </div>
+                        
+                        {% if user.is_authenticated %}
+
+               
+                <form class="form-horizontal" action="/questions/answer?q={{ question.pk }}" method="post">
+                {% csrf_token %}
+
+                <fieldset>
+                    <legend>Add your answer</legend>
+                    
+                    <div class="form-group">
+                        <label for="textArea" class="col-lg-2 control-label">Textarea</label>
+                        <div class="col-lg-10">
+                            <textarea class="form-control" rows="3" id="textArea" name="text"></textarea>
+                            <span class="help-block">Your answer goes here...</span>
+                                
+                        </div>
+                            
+                    </div>
+              
+                    <div class="form-group">
+                        <div class="col-lg-10 col-lg-offset-2">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="reset" class="btn btn-default">Cancel</button>
+                        </div>
+                  </div>
+                       
+                </fieldset>
+              </form>
+
+            {% else %}
+
+                <label> Only authorized users can answer it! </label>
+
+            {% endif %}
+                        
+                
+                </div>
+
+              
+                
+            </div>
+
+
+{% endblock %}

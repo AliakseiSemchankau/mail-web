@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+
+
+{% block bodycont %}
+
+                
+        {% if registered %}
+        Rango says: <strong>thank you for registering!</strong>
+        <a href="/questions">Return to the homepage.</a><br />
+        {% else %}
+
+
+        <form id="user_form" method="post" action="/auth/register/"
+                enctype="multipart/form-data" class="form-horizontal">
+
+            {% csrf_token %}
+
+
+
+            <!-- Display each form. The as_p method wraps each element in a paragraph
+                 (<p>) element. This ensures each element appears on a new line,
+                 making everything look neater. -->
+  
+        
+
+
+                <fieldset>
+                    <legend>Registration</legend>
+                    <div class="form-group">
+                        <label for="inputLogin" class="col-lg-2 control-label">Login</label>
+                        <div class="col-lg-10">
+                            <input class="form-control" placeholder="Login" type="text" name="username">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+                        <div class="col-lg-10">
+                        <input class="form-control" placeholder="Password" type="password" name="password">
+                      
+                        </div>
+                    </div>
+
+                 <!--
+                     <div class="form-group">
+                        <label for="inputPassword" class="col-lg-2 control-label">Confirm password</label>
+                        <div class="col-lg-10">
+                        <input class="form-control" placeholder="Password" type="password">
+                      
+                        </div>
+                    </div>
+                  -->
+                   
+                    <div class="form-group">
+                        <label for="inputNickName" class="col-lg-2 control-label">E-mail</label>
+                        <div class="col-lg-10">
+                            <input class="form-control" placeholder="E-mail" type="text" name="email">
+                            
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputNickName" class="col-lg-2 control-label">Website</label>
+                        <div class="col-lg-10">
+                            <input class="form-control"  placeholder="Website" type="text" name="website">
+                            
+                        </div>
+                    </div>
+                  
+                    <div class="form-group">
+                        <label for="uploadAvatar" class="col-lg-2 control-label">Upload avatar</label>
+                        <div class="col-lg-10">
+                            <input type="file" class="file inputInfo btn btn-default" id="uploadAvatar" preview="" name="avatar">
+                        </div>
+                    </div>
+                    
+                </fieldset> 
+
+
+
+            <!-- Provide a button to click to submit the form. -->
+            <input type="submit" name="submit" value="Register" class="btn btn-success"/>
+        </form>
+        {% endif %}
+
+
+					
+{% endblock %}

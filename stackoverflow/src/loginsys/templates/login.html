@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block bodycont %}
+
+	<form action="/auth/login/?next={{ redirect_to }}" method="post">
+		{% csrf_token %}
+		<label for="username"> Login </label>
+		<input type="text" name="username" id="username">
+		<label for="password">Password</label>
+		<input type="password" name="password" id="password">
+		{% if login_error %}
+			<label class="error">{{ login_error }}</label>
+		{% endif %}
+		<input class="button" type="submit" value="Log in">
+	</form>
+
+{% endblock %}
+

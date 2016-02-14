@@ -1,0 +1,15 @@
+
+#populartags a {
+    font-size:200%;
+}
+
+#popularmemberslist {
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+
+.tag-list {
+    padding-left: 10px;
+    display: inline-block;
+}

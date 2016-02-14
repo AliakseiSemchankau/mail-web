@@ -1,0 +1,68 @@
+{% extends "baseUnregistered.html" %}
+	{% block header %}
+  		
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">AskPupkin</a>
+                </div>
+
+                <div id="navbar" class="navbar-collapse collapse">
+
+                    <form class="navbar-form navbar-left">
+                        <div class="form-group">
+                            <input type="text" placeholder="Поиск" class="form-control">
+                        </div>
+                        <button type="submit" class="btn btn-success">Search!</button>
+                    </form>
+
+                    <form class="navbar-form navbar-right">
+                        <button type="submit" class="btn btn-success">Settings</button>
+                        <button type="submit" class="btn btn-success">Log out</button>
+                    </form>
+
+                </div><!--/.navbar-collapse -->
+            </div>
+        </nav>
+
+	{% endblock %}
+
+    {% block sidecont %}
+
+                <div>
+                    <a href="/questions/ask" class="btn btn-success" role="button">
+                        Ask!
+                    </a>
+                   
+                </div>
+
+                <br>
+
+                <div class="side-bar-module" id="profile">
+                    <div class="panel panel-info">
+                
+                        <div class="panel-body">
+                            <div class="col-sm-5">             
+                                <img src="static/ava1.jpg" style="width:100px;height:100px;">
+                            </div>
+
+                            <div class="col-sm-6 col-sm-offset-1">
+                                <div class="panel panel-success fixed-queston-panel">
+                                    <div class="panel-heading">
+                                         <a href="#">Aliaksei</a>
+                                    </div>
+                                </div>      
+                            </div>
+                            
+                        </div>
+                            
+                    </div>
+                    
+                </div>
+
+        {{ block.super }}
+
+    {% endblock %}
+
+	

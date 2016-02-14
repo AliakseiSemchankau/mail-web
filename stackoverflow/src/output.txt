@@ -1,0 +1,1019 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:09:38
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:16:10
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:18:25
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Ask request
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:20:14
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:20:58
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:23:50
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:29:00
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 17:30:25
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 19:47:54
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Ask request
+[('__getitem__', <unbound method QuestionForm.__getitem__>), ('__html__', <unbound method QuestionForm.<lambda>>), ('__init__', <unbound method QuestionForm.__init__>), ('__iter__', <unbound method QuestionForm.__iter__>), ('__repr__', <unbound method QuestionForm.__repr__>), ('__str__', <unbound method QuestionForm.<lambda>>), ('__unicode__', <unbound method QuestionForm.<lambda>>), ('_clean_fields', <unbound method QuestionForm._clean_fields>), ('_clean_form', <unbound method QuestionForm._clean_form>), ('_get_validation_exclusions', <unbound method QuestionForm._get_validation_exclusions>), ('_html_output', <unbound method QuestionForm._html_output>), ('_post_clean', <unbound method QuestionForm._post_clean>), ('_raw_value', <unbound method QuestionForm._raw_value>), ('_update_errors', <unbound method QuestionForm._update_errors>), ('add_error', <unbound method QuestionForm.add_error>), ('add_initial_prefix', <unbound method QuestionForm.add_initial_prefix>), ('add_prefix', <unbound method QuestionForm.add_prefix>), ('as_p', <unbound method QuestionForm.as_p>), ('as_table', <unbound method QuestionForm.as_table>), ('as_ul', <unbound method QuestionForm.as_ul>), ('clean', <unbound method QuestionForm.clean>), ('full_clean', <unbound method QuestionForm.full_clean>), ('has_changed', <unbound method QuestionForm.has_changed>), ('has_error', <unbound method QuestionForm.has_error>), ('hidden_fields', <unbound method QuestionForm.hidden_fields>), ('is_multipart', <unbound method QuestionForm.is_multipart>), ('is_valid', <unbound method QuestionForm.is_valid>), ('non_field_errors', <unbound method QuestionForm.non_field_errors>), ('save', <unbound method QuestionForm.save>), ('validate_unique', <unbound method QuestionForm.validate_unique>), ('visible_fields', <unbound method QuestionForm.visible_fields>)]
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2015 - 20:07:01
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 12:44:28
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 12:44:52
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 12:45:36
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 12:46:26
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 12:50:13
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 12:53:37
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:24:26
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+/?next=that is redirect!
+/questions/41/that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:35:35
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:35:54
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:40:54
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:40:59
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:42:52
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:43:54
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:43:59
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/42/that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:48:37
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+no logic/questions/41/
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:49:18
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+no logic/questions/41/
+/questions/41/that is redirect!
+no logic/questions/41/
+that is redirect!
+here it is
+5
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:57:54
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+no logic/questions/41/
+that is redirect!
+here it is
+5
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 14:58:41
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+no logic/questions/41/
+that is redirect!
+here it is
+5
+/questions/41/that is redirect!
+no logic/questions/41/
+/questions/41/that is redirect!
+no logic/questions/41/
+that is redirect!
+here it is
+5
+/that is redirect!
+no logic/
+/questions/41/that is redirect!
+no logic/questions/41/
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:03:52
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+no logic/questions/41/
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:04:51
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+no logic/questions/41/
+/questions/41/that is redirect!
+here it is/questions/41/
+5/questions/41/
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:11:16
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/questions/41/that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+/questions/41/that is redirect!
+/questions/41/that is redirect!
+/questions/41/that is redirect!
+/questions/41/that is redirect!
+that is redirect!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:18:04
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:47:28
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:49:41
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 15:51:43
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 16:00:43
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 16:01:30
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 16:02:03
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 16:07:18
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 16:08:05
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 16:08:44
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:29:47
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:31:36
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:44:27
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+like_countthatis
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:45:17
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+like_countthatis
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:53:13
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:53:37
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:54:06
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2015 - 20:55:03
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:36:20
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:37:02
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:37:51
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:40:14
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:46:30
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:47:04
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 08:48:20
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+Performing system checks...
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:00:22
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:00:27
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:00:51
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:07:21
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/uploads/avatars/eeblet.jpg
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:11:36
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:14:22
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:14:43
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:14:57
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:15:33
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:16:02
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:17:02
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:18:37
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:19:44
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:25:12
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:26:43
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:27:15
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:33:10
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+/uploads/avatars/eeblet.jpg
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:42:16
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:44:30
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:44:46
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:45:01
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:45:09
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:53:54
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:54:24
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 09:55:45
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:07:24
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:09:42
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:10:58
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:12:26
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:16:48
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:21:47
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:28:22
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:28:31
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:37:07
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:42:48
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:50:34
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+yes it is
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 10:51:41
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+yes it is
+yes it is
+yes it is
+yes it is
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 17:31:15
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 17:36:00
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 17:37:03
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 17:44:12
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 17:45:07
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:01:40
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:09:32
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:17:47
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:18:35
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+<ul class="errorlist"><li>text<ul class="errorlist"><li>This field is required.</li></ul></li><li>__all__<ul class="errorlist nonfield"><li>Your forgot to enter the text</li></ul></li></ul>
+<ul class="errorlist"><li>text<ul class="errorlist"><li>This field is required.</li></ul></li><li>__all__<ul class="errorlist nonfield"><li>Your forgot to enter the text</li></ul></li></ul>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:23:57
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:28:59
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:29:36
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:32:28
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:33:37
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 18:44:51
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 19:08:07
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 19:17:23
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 19:27:51
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:42:49
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:43:30
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:45:26
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:46:03
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:47:55
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:48:18
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 20:50:10
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+first if
+success save!
+first if
+success save!
+first if
+success save!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 21:03:33
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+first if
+success save!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 21:04:19
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+first if
+success save!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 21:04:46
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+first if
+success save!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 21:07:11
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+first if
+success save!
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2015 - 21:07:47
+Django version 1.8.5, using settings 'application.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+first if
+success save!
+first if
+success save!
+first if
+success save!
+first if
+success save!
+first if
+success save!

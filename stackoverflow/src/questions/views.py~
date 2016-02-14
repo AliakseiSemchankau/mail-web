@@ -1,0 +1,29 @@
+from django.shortcuts import render
+from django.http.response import HttpResponse
+from django.template.loader import get_template
+from django.template import Context
+from django.shortcuts import render_to_response
+
+from .models import Question
+
+
+def index(request):
+    latest_question_list = Question.objects.order_by('-pub_date')[:5]
+
+    return render(request, '../templates/listOfQuestionsUnregistered.html', {
+	'latest_question_list':latest_question_list,
+})
+
+def detail(request, question_id):
+    return HttpResponse("You're looking at question %s." % question_id)
+
+def results(request, question_id):
+    response = "You're looking at the results of question %s."
+    return HttpResponse(response % question_id)
+
+def vote(request, question_id):
+    return HttpResponse("You're voting on question %s." % question_id)
+
+
+
+# Leave the rest of the views (detail, results, vote) unchanged
